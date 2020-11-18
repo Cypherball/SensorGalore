@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor Galore</string>
+    <string name="lightString">Light: %1$.2f</string>
+    <string name="accString">Acceleration:\n\nX = %1$f\nY = %2$f\nZ = %3$f</string>
+    <string name="proximityString">Proximity: %1$.2f</string>
+    <string name="currentColorString">Current Color:\nA:%1$d, R:%2$d, G:%3$d, B:%4$d</string>
+</resources>
